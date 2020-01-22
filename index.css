@@ -68,7 +68,7 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 	filter: drop-shadow(2px 2px 5px #000);
-	filter: blur(1px);
+	backdrop-filter: blur(5px);
 }
 .gallery-close {
 	display: block;
